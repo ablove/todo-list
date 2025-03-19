@@ -1,6 +1,6 @@
 # Todo List Application
 
-This is a simple **Todo List** application built using **HTML, CSS, and JavaScript**.  
+This is a simple **Todo List** application built using **HTML, CSS, and JavaScript**.
 It allows users to **add, edit, and delete tasks**, with tasks saved in **local storage** to persist even after a page refresh.
 
 ## Features
@@ -14,21 +14,21 @@ It allows users to **add, edit, and delete tasks**, with tasks saved in **local 
 
 1. **Download or clone** this repository:
 
-   ```sh
-   git clone https://github.com/ablove/todo-list.git
-   ```
+2. How It Works
 
-2. Open index.html in any web browser.
-   How It Works
-
+   Open index.html in any web browser.
    Add a Task: Type a task in the input field and click "Add".
    Edit a Task: Click the "Edit" button next to a task, modify it in the prompt, and save.
    Delete a Task: Click the "Delete" button next to a task to remove it.
    Persistent Storage: The tasks are automatically saved, so they remain after you refresh the page
 
-Technologies Used
+3. Technologies Used
+
 HTML – Structure of the application
 CSS – Styling for the Todo List
 JavaScript – Handles task management and local storage
 
+4 project Screenshots
+ScrenShoot1 [editing tasks]: project_screenshoots\task-edit-demo.png
+ScreenShoot2 [adding tasks]: project_screenshoots\add-task-demo.png
 Author: Abebe Megibar
